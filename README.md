@@ -8,15 +8,5 @@ This is my first repository : )
 
 - pasta
 
-- french fries
 
-- tomato
-
-- potato
-
-- ice cream
-
-- pizza
-
-- coca-cola
 
