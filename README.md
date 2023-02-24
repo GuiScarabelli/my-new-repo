@@ -7,3 +7,16 @@ This is my first repository : )
 - bread 
 
 - pasta
+
+- french fries
+
+- tomato
+
+- potato
+
+- ice cream
+
+- pizza
+
+- coca-cola
+
