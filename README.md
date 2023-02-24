@@ -2,4 +2,8 @@
 This is my first repository : )
 
 
-## Meu pinto é grande : )
+## shopping list :smile:
+
+- bread 
+
+- pasta
